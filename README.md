@@ -1,5 +1,4 @@
 # Publications
-Links for PEDOT:PSS published papers
 
 ### Exploring novel methods: Acid treatment, metal nanoparticle doping, and graphene insertion for enhanced electrical conductivity of nm thin PEDOT:PSS films
 https://www.sciencedirect.com/science/article/pii/S0379677924001565 
